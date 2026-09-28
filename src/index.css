@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+}
+
+.banner-hero-gradient {
+  background: linear-gradient(108deg, #c74c2e 0%, #db5939 40%, #e0603e 100%);
+}
+
+.banner-hero-gradient-2 {
+  background: linear-gradient(108deg, #990011 0%, #c40017 40%, #e2001a 100%);
+}
+
+.banner-hero-gradient-3 {
+  background: linear-gradient(108deg, #0f172a 0%, #1e293b 50%, #334155 100%);
+}
+
+.banner-top-right {
+  background: linear-gradient(135deg, #f5f6f8 0%, #e9edf3 100%);
+}
+
+.banner-bottom-right {
+  background: linear-gradient(135deg, #edf5fa 0%, #d8e8f3 100%);
+}
+
+.nav-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.nav-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

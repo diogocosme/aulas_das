@@ -1,0 +1,6 @@
+{
+  "name": "Worten Portugal",
+  "description": "Plataforma e-commerce inspirada na Worten com montra promocional, campanhas dinâmicas de tecnologia e retoma, simulador de crédito sem juros e categorias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
